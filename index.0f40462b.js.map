@@ -1,0 +1,1 @@
+{"mappings":"ACAA,QAAQ,GAAA,CAAI","sources":["<anon>","src/index.ts"],"sourcesContent":["var $b4e14b6b8da86996$exports = {};\nconsole.log(\"Hola TypeScript\");\n\n\n//# sourceMappingURL=index.0f40462b.js.map\n","console.log(\"Hola TypeScript\");\r\n"],"names":["console","log"],"version":3,"file":"index.0f40462b.js.map"}
